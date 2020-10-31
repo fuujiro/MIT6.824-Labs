@@ -7,5 +7,5 @@
     - [ ] Part 2A: [Leader election and heartbeats]()
     - [ ] Part 2B: [Log Replication]()
     - [ ] Part 2C: [Persistence]()      
-- [ ] Lab3: KVServer        
+- [ ] Lab3: KVserver        
     - [ ] Part 3A: [Key/Value service without log compaction]()     
